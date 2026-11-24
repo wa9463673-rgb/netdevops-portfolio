@@ -1,6 +1,7 @@
 # NetDevOps Portfolio: Automated Network Lab
 
 ![CI Pipeline](https://github.com/wa9463673-rgb/netdevops-portfolio/actions/workflows/ci.yml/badge.svg)
+[![NetDevOps CI Pipeline](https://github.com/wa9463673-rgb/netdevops-portfolio/actions/workflows/ci.yml/badge.svg)](https://github.com/wa9463673-rgb/netdevops-portfolio/actions/workflows/ci.yml)
 
 ## 📌 Project Overview
 This repository contains a production-ready Network Automation (NetDevOps) portfolio. It demonstrates the full lifecycle of network automation: from generating configurations using data-driven templates to pushing them to devices, validating the state, and automating backups with Git.
