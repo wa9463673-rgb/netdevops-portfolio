@@ -1,0 +1,8 @@
+netmiko
+napalm
+jinja2
+pyyaml
+GitPython
+ansible-core
+cryptography<49
+pytest
