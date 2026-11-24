@@ -3,9 +3,9 @@ name: NetDevOps CI Pipeline
 # This tells GitHub to run this pipeline on every push and pull request to the main branch
 on:
   push:
-    branches: [ "main" ]
+    branches: [ "master" ]
   pull_request:
-    branches: [ "main" ]
+    branches: [ "master" ]
 
 jobs:
   test:
